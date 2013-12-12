@@ -1,0 +1,13 @@
+doctype 5
+html
+  head
+    title= title 
+  body   
+    .container
+      .countSpanish
+      .countEnglish
+      ul.tweets(style="height: 600; overflow: scroll")
+    block footer
+      script(src='/socket.io/socket.io.js')
+      script(type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
+      script(type='text/javascript' src='/javascripts/functions.js')

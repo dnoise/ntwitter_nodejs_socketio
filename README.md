@@ -1,4 +1,4 @@
-Twitter streaming con Node.JS y Socket.IO
+Twitter streaming with Node.JS and Socket.IO
 ========================
 
 Easy example twitter streaming with Node.JS and Socket.IO and ntwitter.
